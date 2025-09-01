@@ -1,0 +1,1 @@
+gcc -o pixl pixl.c pixl.h neighbourPixl.c neighbourPixl.h -lraylib
